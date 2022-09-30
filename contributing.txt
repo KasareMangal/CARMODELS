@@ -45,8 +45,18 @@
    "Price" : "₹ 3.15 cr - ₹ 3.45 cr"
 
    },
+
+   "id" : 6
+   "Car company" : "Kia", 
+   "Car model" : "Seltos", 
+   "Colour" : "Gravity Grey", 
+   "Mileage" : "16.1 kmpl", 
+   "Price" : "₹15 lakh - ₹20 lakh"
+
+   },
+
    {
-  "id" : 7,
+  "id" : 77
    "Car company" : "safari", 
    "Car model" : "Lamborghini ", 
    "Colour" : "black", 
@@ -54,54 +64,15 @@
    "Price" : "₹ 3.15 cr - ₹ 3.48 cr"
 
    },
+    {
+  "id" : 65
+   "Car company" : "Tata Motors", 
+   "Car model" : "Safari ", 
+   "Colour" : "orcus white ", 
+   "Mileage" : "16.14 kmpl", 
+   "Price" : "₹ 15.35 lakh - ₹ 23.56 lakh"
 
-  {
-  "id" : 8
-   "Car company" : "Toyota", 
-   "Car model" : "Fortuner", 
-   "Colour" : "black", 
-   "Mileage" : "7.84 kmpl", 
-   "Price" : "₹ 25 lac - ₹ 30 lacr"
-
-   },  
-
-   {
-   "id" : 9,
-   "Car company" : "ford", 
-   "Car model" : "mustang gt", 
-   "Colour" : "black", 
-   "Mileage" : "7.9 kmpl", 
-   "Price" : "₹ 74.61 Lakh"
    },
    
-     {
-  "id" : 52
-   "Car company" : "Maruti sujuki", 
-   "Car model" : "Maruti Alto 800 ", 
-   "Colour" : "black", 
-   "Mileage" : "31.59 km/kgl", 
-   "Price" : "Rs.3.39 - 5.03 Lakh"
-
-   },
-
-   {
-  "id" : 10,
-   "Car company" : "Mitsubishi", 
-   "Car model" : "Mitsubishi Lancer", 
-   "Colour" : "black", 
-   "Mileage" : "7 kmpl", 
-   "Price" : "₹ 3 cr"
-   },
-   
-
-   {
-  "id" : 11
-   "Car company" : "Mercedes-Benz", 
-   "Car model" : "Merceded-Benz S-class S680", 
-   "Colour" : "Onyx Black", 
-   "Mileage" : "7.09 kmpl", 
-   "Price" : "Rs. 2.50 Cr and goes upto Rs. 3.20 Cr"
-   },
-
 
 ]
